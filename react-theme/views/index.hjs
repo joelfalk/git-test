@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<title>Lär Digital</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>LÄR (logga) --></h1>
+							<p class="major"> </a>Framtidens lärarverktyg byggs idag.</p>
+							<ul class="actions vertical">
+								<li><a href="#product" class="button big wide smooth-scroll-middle">Produkt</a></li>
+								<li><a href="#about" class="button big wide smooth-scroll-middle">Om oss</a></li>
+								<li><a href="#partners" class="button big wide smooth-scroll-middle">Samarbete</a></li>
+								<li><a href="#contact" class="button big wide smooth-scroll-middle">Kontakt</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Produkt s1 -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="product">
+						<div class="content">
+							<h2>Produkt</h2>
+							<p> Lärare idag spenderar allt mer tid på att sköta administrativa sysslor istället för att fokusera på att faktiskt lära ut. Det tycker vi är synd. 
+								Vår lösning var att utveckla en mjukvara som utformar digitala prov, automatiskt rättar dem samt lagrar elevens utveckling på ett säkert men lättillgängligt sätt. Smart va?
+
+								</p>
+							<ul class="actions vertical">
+								<li><a href="#" class="button">Demo</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/LÄR.jpeg" alt="" />
+						</div>
+					</section>
+
+
+
+				<!-- Produkt s2 -->
+					<section class="spotlight style1 orient-left content-align-right image-position-center onscroll-image-fade-in" id="product2">
+						<div class="content">
+							<h2>Utvecklad för att förenkla lärares vardag</h2>
+							<section>
+									<span class="icon style2 major fa-leaf"></span>
+									<h3></h3>
+									<center><p>Självrättande prov och automatisk feedback som kan användas som betygsunderlag enligt GY11.</p></center>
+
+                  
+									<span class="icon style2 major fa-leaf"></span>
+									<h3></h3>
+									<center><p> Visuell översikt för att enkelt hålla koll på varje enskild elevs behov och utveckling.</p></center>
+                  
+									<span class="icon style2 major fa-leaf"></span>
+									<h3></h3>
+									<center><p>Fokus på användarvänlighet - gjort för alla!</p></center>
+								</section>
+						</div>
+						<div class="image">
+							<img src="images/images.png" alt="" />
+						</div>
+					</section>
+
+				<!-- About-->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="about">
+						
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="" />
+						</div>
+						
+						<div class="inner">
+									<section>
+										<span class="icon style2 major fa-diamond"></span>
+										<h3>One</h3>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									</section>
+									<section>
+										<span class="icon style2 major fa-save"></span>
+										<h3>Two</h3>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									</section>
+									<section>
+										<span class="icon style2 major fa-bar-chart"></span>
+										<h3>Three</h3>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									</section>
+					</section>
+
+
+<!-- Partners -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="partners">
+						<div class="content">
+							<h2>Pharetra etiam nulla</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<ul class="actions vertical">
+								<li><a href="#" class="button">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight03.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Five -->
+					<section class="wrapper style1 align-center" id="contact">
+						<div class="inner">
+							<h2>Massa sed condimentum</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+						</div>
+
+
+				<!-- Seven -->
+					<section class="wrapper style1 align-center">
+						<div class="inner medium">
+							<h2>Kontakta oss</h2>
+							<form method="post" action="#">
+								<div class="field half first">
+									<label for="name">Namn</label>
+									<input type="text" name="name" id="name" value="" />
+								</div>
+								<div class="field half">
+									<label for="email">Email</label>
+									<input type="email" name="email" id="email" value="" />
+								</div>
+								<div class="field">
+									<label for="message">Meddelande</label>
+									<textarea name="message" id="message" rows="6"></textarea>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; Story. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+						</div>
+					</footer>
+
+			</div>
+
+
+
+  
+
+
+
+
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/jquery.scrollex.min.js"></script>
+    <script src="/assets/js/jquery.scrolly.min.js"></script>
+    <script src="/assets/js/skel.min.js"></script>
+    <script src="/assets/js/util.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script type="text/javascript" src ="/build/bundle.js"></script>
+  </body>
+
+  </html>

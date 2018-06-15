@@ -54,18 +54,18 @@
 						<div class="content">
 							<h2>Utvecklad för att förenkla lärares vardag</h2>
 							<section>
-									<span class="icon style2 major fa-leaf"></span>
+									<span class="icon style2 major fa-cog"></span>
 									<h3></h3>
 									<center><p>Självrättande prov och automatisk feedback som kan användas som betygsunderlag enligt GY11.</p></center>
 
                   
-									<span class="icon style2 major fa-leaf"></span>
+									<span class="icon style2 major fa-bar-chart"></span>
 									<h3></h3>
 									<center><p> Visuell översikt för att enkelt hålla koll på varje enskild elevs behov och utveckling.</p></center>
                   
 									<span class="icon style2 major fa-leaf"></span>
 									<h3></h3>
-									<center><p>Fokus på användarvänlighet - gjort för alla!</p></center>
+									<center><p>Fokus på användarvänlighet - gjord för alla!</p></center>
 								</section>
 						</div>
 						<div class="image">
@@ -74,39 +74,37 @@
 					</section>
 
 				<!-- About-->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="about">
+					<section class="spotlight style1 orient-left content-align-center image-position-center onscroll-image-fade-in" id="about">
 						
 						<div class="image">
 							<img src="images/spotlight02.jpg" alt="" />
 						</div>
 						
-						<div class="inner">
+						<div class="content">
+									
+
+									
+										<h3>Axel</h3>
+										<p>Programmerare. Pluggar till Civilingenjör inom Elektroteknik.</p>
+									
 									<section>
-										<span class="icon style2 major fa-diamond"></span>
-										<h3>One</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+										
+										<h3>Joel</h3>
+										<p>Programmerare. Pluggar till Civilingenjör inom Nanoteknik.</p>
 									</section>
 									<section>
-										<span class="icon style2 major fa-save"></span>
-										<h3>Two</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
-									</section>
-									<section>
-										<span class="icon style2 major fa-bar-chart"></span>
-										<h3>Three</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+										
+										<h3>Kev</h3>
+										<p>Programmerare. Pluggar till Civilingejör i informationsteknik och även Kandidatexamen i Ekonomi.</p>
 									</section>
 					</section>
 
 
 <!-- Partners -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="partners">
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="partners">
 						<div class="content">
-							<h2>Pharetra etiam nulla</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
-							<ul class="actions vertical">
-								<li><a href="#" class="button">Learn More</a></li>
-							</ul>
+							<h2>Partners</h2>
+							<p>--> Logga leapfrog och VentureLab</p>
 						</div>
 						<div class="image">
 							<img src="images/spotlight03.jpg" alt="" />
@@ -116,8 +114,8 @@
 				<!-- Five -->
 					<section class="wrapper style1 align-center" id="contact">
 						<div class="inner">
-							<h2>Massa sed condimentum</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+							<h2>Synpunkter? Frågor? Jobba hos oss?</h2>
+							<p>Om du undrar något så använd gärna kontaktformuläret nedanför eller sväng förbi vår tillfälliga arbetsplats på VentureLab/Ideon Agora. Vi hörs!</p>
 						</div>
 
 
@@ -139,7 +137,7 @@
 									<textarea name="message" id="message" rows="6"></textarea>
 								</div>
 								<ul class="actions">
-									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+									<li><input type="submit" name="submit" id="submit" value="Skicka" /></li>
 								</ul>
 							</form>
 
